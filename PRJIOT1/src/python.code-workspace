@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../../python"
+		},
+		{
+			"path": "../../../../ESP_Labs"
+		},
+		{
+			"name": "PRJIOT1",
+			"path": ".."
+		}
+	]
+}
